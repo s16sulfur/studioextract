@@ -1,0 +1,1 @@
+go build -ldflags "-s -w -X 'main.Version=1.0.0' -X 'main.Build=full'"

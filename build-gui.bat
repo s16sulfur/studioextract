@@ -1,0 +1,1 @@
+go build -ldflags="-H windowsgui -X 'main.Version=1.0.0' -X 'main.Build=gui'"
