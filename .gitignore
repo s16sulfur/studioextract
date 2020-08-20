@@ -40,6 +40,3 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
-
-# Extract output
-/*.png
